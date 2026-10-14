@@ -1,0 +1,17 @@
+# AI team runtime
+.team/inbox/
+.team/logs/
+.team/shots/
+.team/LOCK
+
+# references from the web
+references/candidates/
+references/auto/
+references/rejected/
+
+# secrets
+.env
+.env.*
+
+# deps
+node_modules/
